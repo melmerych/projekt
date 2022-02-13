@@ -1,1 +1,2 @@
-elo
+witam
+nastepny plik to program, w ktorym trzeba zgadnac liczbe z przedzialu 1-20
