@@ -30,7 +30,7 @@ int probyy =6;
 
          else  {
 
-            cout <<"Zgadles!!!"<<endl;
+            cout <<"Zgadles!"<<endl;
             break;
             }
     }
@@ -39,7 +39,7 @@ int probyy =6;
 
         if(liczba<podana){
 
-            cout<<"twoja strzal jest wiekszy od liczby"<<endl;
+            cout<<"twoj strzal jest wiekszy od liczby"<<endl;
             cout<<"wprowadz ponownie"<<endl;
             cin>>podana;
         }
@@ -47,7 +47,7 @@ int probyy =6;
             else {
 
 
-            cout<<"twoja strzal jest mniejszy od liczby"<<endl;
+            cout<<"twoj strzal jest mniejszy od liczby"<<endl;
             cout<<"wprowadz ponownie"<<endl;
             cin>>podana;
 
@@ -55,7 +55,7 @@ int probyy =6;
 
            if (liczba==podana){
 
-                cout<<"wygrales"<<endl;
+                cout<<"wygrales!!!!!"<<endl;
                 break;
             }
 
